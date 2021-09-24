@@ -2,5 +2,5 @@
      Software and Data Engineering study program. 
 - 👀 I’m interested in front-end development and design.
 - 🌱 I’m currently learning Angular and Spring.
-- 💞️ I’m looking to extend my knowledge working on practical projects.
+- 💞️ I’m looking to extend my knowledge by working on practical projects.
 - 📫 How to reach me - krsmanoviczzorana@gmail.com
